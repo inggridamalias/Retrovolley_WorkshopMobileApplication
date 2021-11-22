@@ -1,8 +1,8 @@
 # Retrovolley_WorkshopMobileApplication
 
-NIM : E41200642
+NIM   : E41200642
 
-NAMA : INGGRID AMALIA SABRINA
+NAMA  : INGGRID AMALIA SABRINA
 
 <h2>SCREENSHOT HASIL</h2>
 <h3>Retrofit</h3>
